@@ -1,3 +1,26 @@
+💫 Hi 👋, I'm Adhya
+A Computer Science (Data Science) student 💻 
+
+📧 Email: [adhyarao7@gmail.com](mailto:adhyarao7@gmail.com)
+
+🔭 Working on:
+• AI-Powered Job Preparation Platform
+
+🌱 Learning:
+• RAG, LangChain, AI
+
+👯 Looking to collaborate on:
+• AI/ML & Full Stack Projects
+
+💬 Ask me about:
+• AI, ML, Web Development
+
+📫 Reach me:
+• GitHub & LinkedIn
+
+
+⚡ Fun fact:
+• I run a YouTube channel on tech topics 🎥
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aadhi_ya5/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adhya-rao-ab085a334/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@TheBeZoneOfficial) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adhyarao7@gmail.com) 
